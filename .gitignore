@@ -1,0 +1,17 @@
+# Environment & sensitive secrets
+.env
+
+# Storage logs & temporary files
+/storage/logs/*.log
+*.log
+
+# Windows thumbnail caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE & Editor caches
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
